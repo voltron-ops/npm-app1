@@ -1,15 +1,19 @@
 {
-  "name": "npm-app1",
+  "name": "@voltron-ops/npm-app1",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@voltron-ops"
+    "registry": "https://npm.pkg.github.com/voltron-ops"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Mohd Kashif Khan",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/voltron-ops/npm-app1.git"
+  }
 }
