@@ -9,6 +9,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "cross-env": "^7.0.3"
+  },
   "keywords": [],
   "author": "Mohd Kashif Khan",
   "license": "ISC",
